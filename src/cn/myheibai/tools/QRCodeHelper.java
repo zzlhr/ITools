@@ -1,4 +1,4 @@
-package com.myheibai.tools;
+package cn.myheibai.tools;
 
 import com.google.zxing.*;
 import com.google.zxing.client.j2se.BufferedImageLuminanceSource;
